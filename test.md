@@ -1,2 +1,0 @@
-# Test 😎
-Emoji commit test ✅
